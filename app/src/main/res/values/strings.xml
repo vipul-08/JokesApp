@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="add_joke">ADD JOKE</string>
+    <string name="enter_joke">Enter Joke</string>
+    <string name="enter_tags">Enter comma separated tags..</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>
